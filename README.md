@@ -83,7 +83,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
--
+- <b> Transport Plan Kigali Master Plan 2050 </b>, 2020: https://bpmis.gov.rw/asset_uplds/kigali_master_plan/3_Kigali%20Master%20Plan_Transport%20PlanLowRes.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
 
