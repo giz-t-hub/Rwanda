@@ -48,6 +48,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Repositories of regulations:
   - MinInfra: https://www.mininfra.gov.rw/publications?tx_filelist_filelist%5B%40widget_0%5D%5BcurrentPage%5D=2&tx_filelist_filelist%5Baction%5D=list&tx_filelist_filelist%5Bcontroller%5D=File&tx_filelist_filelist%5Bpath%5D=%2Fuser_upload%2FMininfra%2FPublications%2FLaws_Orders_and_Instructions%2FTransport%2F&cHash=cd190b6accfb7e88a690e07d1c497a3e
   - RTDA: https://www.rtda.gov.rw/publication?tx_filelist_filelist%5Baction%5D=list&tx_filelist_filelist%5Bcontroller%5D=File&tx_filelist_filelist%5Bpath%5D=%2Fuser_upload%2FRTDA%2FPublication%2F4.Laws%2F&cHash=85e33e76d73ec409df671be2475bb002
+  - RURA: https://rura.rw/index.php?id=179
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
