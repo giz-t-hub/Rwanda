@@ -87,7 +87,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
-- Final Report on Transport Sector Strategic Plan for EDPRS2: https://www.mininfra.gov.rw/fileadmin/user_upload/Mininfra/Documents/Transport_Docs/Transport_Sector_Strategic_Plan___21_August_2013__2_.pdf
+- Final Report on Transport Sector Strategic Plan for EDPRS2, 2013: https://www.mininfra.gov.rw/fileadmin/user_upload/Mininfra/Documents/Transport_Docs/Transport_Sector_Strategic_Plan___21_August_2013__2_.pdf
+- Draft Final Transport Sector Strategic Plan for the National Strategy for Transformation (NST1), 2018: https://www.minecofin.gov.rw/index.php?eID=dumpFile&t=f&f=15860&token=f9e925c3f88e6becf28573a3f6b5012a5290c477
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
