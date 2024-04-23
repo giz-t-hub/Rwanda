@@ -44,7 +44,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   
 - Aviation:
 
-- Repository of regulations: https://www.mininfra.gov.rw/publications?tx_filelist_filelist%5B%40widget_0%5D%5BcurrentPage%5D=2&tx_filelist_filelist%5Baction%5D=list&tx_filelist_filelist%5Bcontroller%5D=File&tx_filelist_filelist%5Bpath%5D=%2Fuser_upload%2FMininfra%2FPublications%2FLaws_Orders_and_Instructions%2FTransport%2F&cHash=cd190b6accfb7e88a690e07d1c497a3e
+- Repositories of regulations:
+  - MinInfra: https://www.mininfra.gov.rw/publications?tx_filelist_filelist%5B%40widget_0%5D%5BcurrentPage%5D=2&tx_filelist_filelist%5Baction%5D=list&tx_filelist_filelist%5Bcontroller%5D=File&tx_filelist_filelist%5Bpath%5D=%2Fuser_upload%2FMininfra%2FPublications%2FLaws_Orders_and_Instructions%2FTransport%2F&cHash=cd190b6accfb7e88a690e07d1c497a3e
+  - RTDA: https://www.rtda.gov.rw/publication?tx_filelist_filelist%5Baction%5D=list&tx_filelist_filelist%5Bcontroller%5D=File&tx_filelist_filelist%5Bpath%5D=%2Fuser_upload%2FRTDA%2FPublication%2F4.Laws%2F&cHash=85e33e76d73ec409df671be2475bb002
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -58,7 +60,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
    - Rwanda’s <b> Adaptation Communication </b> to the United Nations Framework Convention on Climate Change, 2021: https://unfccc.int/documents/500050
      
 - Energy policy 
-    
+  - National Downstream Petroleum Policy, 2020: https://www.minicom.gov.rw/index.php?eID=dumpFile&t=f&f=25975&token=43d8c732cfabb2cab1d92de34c8bd672842267aa    
 
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
