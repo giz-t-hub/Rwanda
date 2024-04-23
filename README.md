@@ -61,7 +61,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
    - Rwanda’s <b> Adaptation Communication </b> to the United Nations Framework Convention on Climate Change, 2021: https://unfccc.int/documents/500050
      
 - Energy policy 
-  - National Downstream Petroleum Policy, 2020: https://www.minicom.gov.rw/index.php?eID=dumpFile&t=f&f=25975&token=43d8c732cfabb2cab1d92de34c8bd672842267aa    
+  - <b> National Downstream Petroleum Policy </b>, 2020: https://www.minicom.gov.rw/index.php?eID=dumpFile&t=f&f=25975&token=43d8c732cfabb2cab1d92de34c8bd672842267aa    
 
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
