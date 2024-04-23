@@ -29,7 +29,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Transport
 
 - General
-  - Rwanda <b> Vision 2050 </b>: https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Development_Planning_and_Research/Vision_2050/English-Vision_2050_Abridged_version_WEB_Final.pdf
+  - Rwanda <b> Vision 2050 </b>: https://www.minaloc.gov.rw/fileadmin/user_upload/Minaloc/Publications/Useful_Documents/English-Vision_2050_full_version_WEB_Final.pdf // abridged version: https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Development_Planning_and_Research/Vision_2050/English-Vision_2050_Abridged_version_WEB_Final.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -82,7 +82,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
--
+- AfDB: Rwanda Transport Sector Review and Action Plan, 2013: https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Rwanda_-_Transport_Sector_Review_and_Action_Plan.pdf
+- 
 
 ### Data <a name="data"></a>
 
