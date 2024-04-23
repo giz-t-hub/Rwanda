@@ -29,7 +29,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Transport
 
 - General
-
+  - Rwanda <b> Vision 2050 </b>: https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Development_Planning_and_Research/Vision_2050/English-Vision_2050_Abridged_version_WEB_Final.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -78,7 +78,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
--
+- Final Report on Transport Sector Strategic Plan for EDPRS2: https://www.mininfra.gov.rw/fileadmin/user_upload/Mininfra/Documents/Transport_Docs/Transport_Sector_Strategic_Plan___21_August_2013__2_.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
