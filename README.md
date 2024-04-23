@@ -28,9 +28,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Transport
   - <b> National transport policy and strategy for Rwanda </b>, 2021: https://www.mininfra.gov.rw/fileadmin/user_upload/Mininfra/Publications/Policies/Transport/NATIONAL_TRANSPORT_POLICY_AND_STRATEGY_APRIL_2021.pdf
-
+  
 - General
   - Rwanda <b> Vision 2050 </b>: https://www.minaloc.gov.rw/fileadmin/user_upload/Minaloc/Publications/Useful_Documents/English-Vision_2050_full_version_WEB_Final.pdf // abridged version: https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Development_Planning_and_Research/Vision_2050/English-Vision_2050_Abridged_version_WEB_Final.pdf
+  - - <b> National Land Use and Development Master Plan 2020 - 2050 </b>, 2020: https://www.environment.gov.rw/index.php?eID=dumpFile&t=f&f=10551&token=ef94f9c2e05dfb6b5e43acfdaaefa0dfe0071380
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
