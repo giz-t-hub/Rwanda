@@ -44,6 +44,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   
 - Aviation:
 
+- Repository of regulations: https://www.mininfra.gov.rw/publications?tx_filelist_filelist%5B%40widget_0%5D%5BcurrentPage%5D=2&tx_filelist_filelist%5Baction%5D=list&tx_filelist_filelist%5Bcontroller%5D=File&tx_filelist_filelist%5Bpath%5D=%2Fuser_upload%2FMininfra%2FPublications%2FLaws_Orders_and_Instructions%2FTransport%2F&cHash=cd190b6accfb7e88a690e07d1c497a3e
+
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
