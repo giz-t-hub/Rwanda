@@ -111,4 +111,6 @@ Contributors:
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of January 2024)
+- Mateo Gomez Jattin:
+- Francois Zirikana: 
+- (as of April 2024)
