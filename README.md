@@ -43,6 +43,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
+  - Updated <b> Nationally Determined Contribution </b>, 2020: https://unfccc.int/sites/default/files/NDC/2022-06/Rwanda_Updated_NDC_May_2020.pdf
     
 - Adaptation
    
