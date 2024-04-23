@@ -38,16 +38,20 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Roads:
     
 - Inland waterways, ports:
+  
 - Aviation:
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
   - Updated <b> Nationally Determined Contribution </b>, 2020: https://unfccc.int/sites/default/files/NDC/2022-06/Rwanda_Updated_NDC_May_2020.pdf
-    
+  - <b> Biennial update report (BUR) </b>. BUR 1. National inventory report, 2021: https://unfccc.int/documents/576196
+  - <b> Third national communication </b> under the United Nations Framework Convention on Climate Change (U.N.F.C.C.C), 2018: https://unfccc.int/documents/184307
+        
 - Adaptation
-   
-
+   - Updated <b> Nationally Determined Contribution </b>, 2020: https://unfccc.int/sites/default/files/NDC/2022-06/Rwanda_Updated_NDC_May_2020.pdf
+   - Rwanda’s <b> Adaptation Communication </b> to the United Nations Framework Convention on Climate Change, 2021: https://unfccc.int/documents/500050
+     
 - Energy policy 
     
 
