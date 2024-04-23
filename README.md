@@ -27,6 +27,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
+  - <b> National transport policy and strategy for Rwanda </b>, 2021: https://www.mininfra.gov.rw/fileadmin/user_upload/Mininfra/Publications/Policies/Transport/NATIONAL_TRANSPORT_POLICY_AND_STRATEGY_APRIL_2021.pdf
 
 - General
   - Rwanda <b> Vision 2050 </b>: https://www.minaloc.gov.rw/fileadmin/user_upload/Minaloc/Publications/Useful_Documents/English-Vision_2050_full_version_WEB_Final.pdf // abridged version: https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Development_Planning_and_Research/Vision_2050/English-Vision_2050_Abridged_version_WEB_Final.pdf
@@ -36,6 +37,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Railways:
  
 - Roads:
+  - <b> Strategic paper on electric mobility adaptation </b> in Rwanda, 2021: https://www.mininfra.gov.rw/fileadmin/user_upload/Mininfra/Publications/Laws_Orders_and_Instructions/Transport/16062021_Strategic_Paper_for_e-mobility_adaptation_in_Rwanda-Final.pdf
+  - <b> Public transport policy and strategy </b> for Rwanda, 2012: https://rura.rw/fileadmin/Documents/transport/laws%20and%20order/Public_Transport_Policy_and_strategy_for_Rwanda_02.pdf
     
 - Inland waterways, ports:
   
