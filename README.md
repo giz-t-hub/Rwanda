@@ -13,7 +13,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
-- [Climate and energy policies](#climate-energy-policies) 
+- [Climate and energy policies](#climate-energy-policies)
+- [Urban and regional development](#urban)
 - [EU accession](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)  
 - [Digitalisation](#digitalisation)
@@ -64,6 +65,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Energy policy 
   - <b> National Downstream Petroleum Policy </b>, 2020: https://www.minicom.gov.rw/index.php?eID=dumpFile&t=f&f=25975&token=43d8c732cfabb2cab1d92de34c8bd672842267aa    
 
+### Urban and regional development <a name="#urban"></a> 
+
+-
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
