@@ -23,7 +23,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
-
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
